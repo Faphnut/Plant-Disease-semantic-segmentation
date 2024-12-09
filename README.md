@@ -20,12 +20,8 @@ this Library have many segmentation model with different Encoder that is Necessa
 
     !pip install -q -U segmentation-models-pytorch albumentations > /dev/null
 
-for Loading the Built dataset fist:
-    !pip install gdown
-and then use this code to load the built dataset
-    !gdown --id 1qoadjw0j-_ZMDOJ-OvC7gL9jFDooGDCA
     
-there are many other librarys Needex on this code but this two are necessary 
+there are many other librarys Needede on this code but this  one is  necessary 
 
 ## Running the tests
 

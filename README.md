@@ -4,43 +4,26 @@ Abstract— 	Smart agriculture leverages advanced technologies such as the Inter
 Initially appeared on
 
 
-## Getting Started
-
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
-
-
-
 ### Installing
 
-
-
-this Library have many segmentation model with different Encoder that is Necessary for the Project
+this Library have many segmentation models with different Encoder that is Necessary for the Project
 
     !pip install -q -U segmentation-models-pytorch albumentations > /dev/null
 
     
-there are many other librarys Needede on this code but this  one is  necessary 
-
 ## Running the tests
 
-here is the out put of the byilt model compare to ther implemented models:
+here is the output of the built model compare to other implemented models:
 ![image](https://github.com/user-attachments/assets/f3dc97e8-fb04-4703-900c-3a12f90a26b5)
 
-Additionally, as illustrated in Fig. 3, the performance of various models, including the proposed approach, was evaluated on three samples of disease-affected plant leaves. In the figure, the segmented regions are highlighted with boxes. The results demonstrate that the proposed method, leveraging edge detection, effectively enhances the separation between affected and healthy areas. This improvement is particularly evident in complex images, indicating that the model performs well in identifying and segmenting disease-affected regions.
-
-
-
+in This Fig, the performance of various models, including the proposed approach, was evaluated on three samples of disease-affected plant leaves. In the figure, the segmented regions are highlighted with boxes. The results demonstrate that the proposed method, leveraging edge detection, effectively enhances the separation between affected and healthy areas. This improvement is particularly evident in complex images, indicating that the model performs well in identifying and segmenting disease-affected regions.
 
 ## Deployment
 
 this project has built in google collab Environment
 
-
-
 ## License
 
-This project is licensed under the [Apache 2.0](LICENSE.md)
+This project is licensed under the [Apache-2.0](LICENSE.md)
 
 

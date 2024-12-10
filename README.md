@@ -11,7 +11,7 @@ this Library have many segmentation models with different Encoder that is Necess
     !pip install -q -U segmentation-models-pytorch albumentations > /dev/null
 
     
-## Running the tests
+## Result and implements
 
 here is the output of the built model compare to other implemented models:
 ![image](https://github.com/user-attachments/assets/f3dc97e8-fb04-4703-900c-3a12f90a26b5)
